@@ -30,3 +30,5 @@ design.ui       | Ui файл Qt Designer
 DMesDB.sql      | Дамп файл БД
 
 ## Скриншоты:
+![alt text](https://github.com/Mzn-s/Messenger-on-Python/blob/master/Pictures/LoginScreen.JPG)
+![alt text](https://github.com/Mzn-s/Messenger-on-Python/blob/master/Pictures/DialogScreen.JPG)
